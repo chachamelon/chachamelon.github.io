@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: who am i?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요. 저는 QA 엔지니어로 일하고 있는 chachamelon 이라고 합니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+지금은 여의도 구석에서 증권 회사의 QA로 일하고 있고, 만족하면서 지내고 있습니다.
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+대학교를 졸업하고 나서 3년 정도는 소프트웨어 연구원으로 일을 했었습니다.
+그때부터 뭔가를 만드는 일보다는 검증하고 확인하고 버그를 찾아내는 일을 더 즐거워했던 것 같습니다.
+
+그래서 연구원에서 QA 엔지니어로 일하고 있는데, 지금은 너무 만족하면서 다니고 있습니다.
+
+### Purpose
+
+지금까지는 그냥 회사를 다니면서 남는 것 없이 다녔었는데, 뭔가를 기록하면서 공유해보자는 마음이 생겼습니다.
+그래서 매일은 힘들더라도 꾸준히 정보를 공유해보자는 마음으로 블로그를 해보려고 합니다.
+
+문의사항이 있으시면 chachamelon@naver.com로 언제든지 메일주시면 확인해보겠습니다!
