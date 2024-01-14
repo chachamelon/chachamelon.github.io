@@ -1,3 +1,10 @@
+---
+layout: post
+title: Opensearch 환경 구축기 - 2
+subtitle: EFK가 아니였어....?
+tags: [Monitoring,Opensearch,Opensearch Dashboard,Fluentd,Log,PipeLine]
+author: chachamelon
+---
 ### WHY?
 사실 EFK 스택을 활용하여 로그 파이프라인을 구축하려고 했습니다. 그런데, 모니터링의 꽃인 알림 기능을 사용하려면 xpack을 사용해야 하는데 이게 유료입니다...!
 물론, 회사에서 돈을 내줄 수도 있겠지만 기왕이면..! 무료로 구축하고 다른 쪽에서 돈을 쓰는 것이 좋지 않을까....? 하다가 찾은게 Opensearch였습니다.
