@@ -5,12 +5,15 @@ subtitle: EFK가 아니였어....?
 tags: [Monitoring,Opensearch,Opensearch Dashboard,Fluentd,Log,PipeLine]
 author: chachamelon
 ---
+# docker compose
+[chachamelon github link](https://github.com/chachamelon/Opensearch-stack)
+
 ### WHY?
 사실 EFK 스택을 활용하여 로그 파이프라인을 구축하려고 했습니다. 그런데, 모니터링의 꽃인 알림 기능을 사용하려면 xpack을 사용해야 하는데 이게 유료입니다...!
 물론, 회사에서 돈을 내줄 수도 있겠지만 기왕이면..! 무료로 구축하고 다른 쪽에서 돈을 쓰는 것이 좋지 않을까....? 하다가 찾은게 Opensearch였습니다.
 
 ### Opensearch?
-아마존에서 elasticsearch를 포크해서 상용화를 하면서 생긴 분쟁(https://www.ddaily.co.kr/page/view/2021013120111791417)이 있었습니다.
+아마존에서 elasticsearch를 포크해서 상용화를 하면서 생긴 분쟁[기사링크](https://www.ddaily.co.kr/page/view/2021013120111791417)이 있었습니다.
 그때 아마존에서 오픈소스로 만든 프로젝트가 Opensearch입니다. Elasticsearch에서는 알림 기능이 유료지만, Opensearch에서는 무료입니다!
 그래서 Opensearch를 사용해보기로 했습니다.
 
@@ -20,7 +23,7 @@ author: chachamelon
 
 ### How to do?
 이미 Opensearch docs에 예제가 잘되어 있습니다!
-https://opensearch.org/docs/latest/install-and-configure/install-opensearch/docker/#sample-docker-composeyml
+[sample docker compose](https://opensearch.org/docs/latest/install-and-configure/install-opensearch/docker/#sample-docker-composeyml)
 위의 compose 파일 작성후 해당 경로에서 다음과 같은 명령어를 입력해줍니다.
 
 ```bash
